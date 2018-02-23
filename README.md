@@ -1,3 +1,9 @@
 # IOS-Development
 Diplomado
-Desarrollar apliacacion para IOS
+Desarrollar aplicacion para IOS
+
+
+Semana 3
+Temas vistos
+
+
