@@ -10,7 +10,7 @@ Para corregir esto procedemos a ver la conexiones en el View Controller y encont
 El primero es en el boton el cual nos muestra el siguiente mensaje:
 "the action 'actionButton' is not define on ViewController"
 
-el siguiente solo nos maraca un signo ! en la conexión generalmente esto aparece cuando no se ha realizado correcatemente la conexion.
+El siguiente solo nos maraca un signo ! en la conexión generalmente esto aparece cuando no se ha realizado correcatemente la conexión.
 
 
 ## Solución:
@@ -18,4 +18,4 @@ el siguiente solo nos maraca un signo ! en la conexión generalmente esto aparec
 
 Se añadio un refrencia @IBOutlet al OUTTLETtext y se realizó la conexión
 
-se realizon una conexión del boton de tipo action llamada actionButton y se elimino la funcion que realizaba esta misma tarea.
+Se realizó una conexión del boton de tipo action llamada actionButton y se elimino la funcion que realizaba esta misma tarea.
